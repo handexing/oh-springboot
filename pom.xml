@@ -17,7 +17,8 @@
 
 	<modules>
 		<module>startSpringBoot</module>
-    <module>staticPageSpringBoot</module>
+	    <module>staticPageSpringBoot</module>
+	    <module>complex_springboot</module>
   </modules>
 
 </project>
