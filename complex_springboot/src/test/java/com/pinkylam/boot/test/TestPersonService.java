@@ -20,7 +20,6 @@ public class TestPersonService {
 
 	@Before
 	public void setUp() {
-		// 准备，清空user表
 		personService.deleteAll();
 	}
 
