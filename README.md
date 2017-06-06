@@ -11,6 +11,9 @@
 ##### complex_springboot 包含demo如下：
 
 - 配置文件：随机数，自定义属性，多环境配置
+- 构建一个RESTful API
+- 异常管理
+- 使用JdbcTemplate
 
 
 > 觉得不错的朋友可以点下star,watch,fork也算是对我的鼓励了。

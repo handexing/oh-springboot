@@ -22,6 +22,12 @@ public class Person {
 		this.age = age;
 	}
 
+	public Person(String name, Integer age) {
+		super();
+		this.name = name;
+		this.age = age;
+	}
+
 	public Integer getAge() {
 		return age;
 	}
