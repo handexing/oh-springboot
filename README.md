@@ -16,5 +16,6 @@
 - 使用JdbcTemplate
 - 使用Spring-data-jpa
 - 使用log4j记录日志
+- 使用mybatis，mybatis的使用案例
 
 > 觉得不错的朋友可以点下star,watch,fork也算是对我的鼓励了。
